@@ -8,7 +8,7 @@
  * @GitHub:github.com/nanmi
    -->
 
-# YOLOX Deploy DeepStream :two_hearts: :collision:
+# YOLOX(Megvii-BaseDetection) Deploy DeepStream :two_hearts: :collision:
 
 This project base on https://github.com/Megvii-BaseDetection/YOLOX  and https://zhuanlan.zhihu.com/p/391693130
 
