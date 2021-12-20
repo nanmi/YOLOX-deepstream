@@ -29,7 +29,7 @@ OpenCV 4.0+ (build with opencv-contrib module) [how to build](https://gist.githu
 
 OpenMP
 
-DeepStream 5.0+
+DeepStream 6.0+
 
 # Installation
 
